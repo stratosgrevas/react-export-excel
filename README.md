@@ -10,6 +10,8 @@ In the project directory, you can run:
 
 Open [http://localhost:3000] to view it in your browser.
 
+![excel_export](https://user-images.githubusercontent.com/455444/205789601-5c5934e7-3ba1-42fb-a7ae-76a56c5141bd.png)
+
 ## Questions?
 
 Send me a e-mail on stratosgrevas@gmail.com
